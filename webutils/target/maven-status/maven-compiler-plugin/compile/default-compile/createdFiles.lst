@@ -4,6 +4,7 @@ cn\joe\test\annotations\TestAnnotation.class
 cn\joe\test\dao\TestMapper.class
 cn\joe\test\service\TestServiceImpl.class
 cn\joe\test\annotations\TestAnnotationProcessor.class
+cn\joe\test\model\TestParent.class
 cn\joe\test\service\TestServiceImpl$1$1.class
 cn\joe\test\config\TestReadFromProperties.class
 cn\joe\test\controller\TestController.class

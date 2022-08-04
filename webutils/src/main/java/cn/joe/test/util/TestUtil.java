@@ -6,20 +6,6 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-/**
- * ------------------------------------------------------------------------
- * <p>
- * Copyright © 2014-2018 China Mobile (SuZhou) Software Technology Co.,Ltd.
- * <p>
- * The programs can not be copied and/or distributed without the express permission of China Mobile
- * (SuZhou) Software Technology Co.,Ltd.
- *
- * @description: 工具类
- * @author: lijian@cmss.chinamobile.com
- * @create: 2021/4/1 19:42
- * <p>
- * ------------------------------------------------------------------------
- **/
 @Component
 public class TestUtil{
   @Autowired

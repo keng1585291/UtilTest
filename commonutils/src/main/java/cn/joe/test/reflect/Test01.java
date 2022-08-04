@@ -2,21 +2,6 @@ package cn.joe.test.reflect;
 
 import java.io.Serializable;
 
-/**
- * ------------------------------------------------------------------------
- * <p>
- * Copyright © 2014-2018 China Mobile (SuZhou) Software Technology Co.,Ltd.
- * <p>
- * The programs can not be copied and/or distributed without the express permission of China Mobile
- * (SuZhou) Software Technology Co.,Ltd.
- *
- * @description:
- * @author: lijian@cmss.chinamobile.com
- * @create: 2021/3/26 10:54
- * <p>
- * ------------------------------------------------------------------------
- **/
-
 public abstract class Test01 {
 
   private Integer age;

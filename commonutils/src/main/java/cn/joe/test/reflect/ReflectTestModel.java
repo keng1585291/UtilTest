@@ -8,21 +8,6 @@ import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import org.junit.Test;
 
-/**
- * ------------------------------------------------------------------------
- * <p>
- * Copyright © 2014-2018 China Mobile (SuZhou) Software Technology Co.,Ltd.
- * <p>
- * The programs can not be copied and/or distributed without the express permission of China Mobile
- * (SuZhou) Software Technology Co.,Ltd.
- *
- * @description: 类的反射测试
- * @author: lijian@cmss.chinamobile.com
- * @create: 2021/3/10 9:43
- * <p>
- * ------------------------------------------------------------------------
- **/
-
 public class ReflectTestModel {
   public static void main(String[] args) throws IllegalAccessException {
     Object a = new Test02(1,1,"aaaa");

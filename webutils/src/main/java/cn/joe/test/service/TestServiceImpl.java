@@ -23,21 +23,6 @@ import org.springframework.transaction.support.TransactionTemplate;
 import org.springframework.util.Assert;
 import org.springframework.util.ObjectUtils;
 
-/**
- * ------------------------------------------------------------------------
- * <p>
- * Copyright © 2014-2018 China Mobile (SuZhou) Software Technology Co.,Ltd.
- * <p>
- * The programs can not be copied and/or distributed without the express permission of China Mobile
- * (SuZhou) Software Technology Co.,Ltd.
- *
- * @description: 测试
- * @author: lijian@cmss.chinamobile.com
- * @create: 2021/2/20 18:14
- * <p>
- * ------------------------------------------------------------------------
- **/
-
 public class TestServiceImpl implements TestService {
   @Autowired
   private ApplicationContext applicationContext;

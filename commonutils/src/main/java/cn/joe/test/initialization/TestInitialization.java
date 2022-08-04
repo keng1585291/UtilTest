@@ -6,21 +6,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * ------------------------------------------------------------------------
- * <p>
- * Copyright © 2014-2018 China Mobile (SuZhou) Software Technology Co.,Ltd.
- * <p>
- * The programs can not be copied and/or distributed without the express permission of China Mobile
- * (SuZhou) Software Technology Co.,Ltd.
- *
- * @description: 测试初始化
- * @author: lijian@cmss.chinamobile.com
- * @create: 2021/3/20 16:57
- * <p>
- * ------------------------------------------------------------------------
- **/
-
 public class TestInitialization {
 
   public static void main(String[] args) {

@@ -5,21 +5,6 @@ import java.util.ArrayList;
 import java.util.List;
 import org.junit.Test;
 
-/**
- * -----------------------------------------------------------------------------
- * <p>
- * Copyright © 2014-2021 China Mobile (SuZhou) Software Technology Co.,Ltd.
- * <p>
- * The programs can not be copied and/or distributed without the express permission of China Mobile
- * (SuZhou) Software Technology Co.,Ltd.
- *
- * @description:
- * @author: lijian@cmss.chinamobile.com
- * @create: 2021/4/15 15:09
- * <p>
- * ------------------------------------------------------------------------
- **/
-
 public class TestBasic {
   private Integer  a =1;
   @Test

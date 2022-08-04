@@ -12,21 +12,6 @@ import java.util.List;
 import java.util.StringJoiner;
 import org.junit.Test;
 
-/**
- * ------------------------------------------------------------------------
- * <p>
- * Copyright © 2014-2018 China Mobile (SuZhou) Software Technology Co.,Ltd.
- * <p>
- * The programs can not be copied and/or distributed without the express permission of China Mobile
- * (SuZhou) Software Technology Co.,Ltd.
- *
- * @description: 字符串类型测试工具
- * @author: lijian@cmss.chinamobile.com
- * @create: 2021/2/20 14:59
- * <p>
- * ------------------------------------------------------------------------
- **/
-
 public class StringTestUtil {
 
   private String name;

@@ -1,20 +1,5 @@
 package cn.joe.test.ratelimit;
 
-/**
- * ------------------------------------------------------------------------
- * <p>
- * Copyright © 2014-2018 China Mobile (SuZhou) Software Technology Co.,Ltd.
- * <p>
- * The programs can not be copied and/or distributed without the express permission of China Mobile
- * (SuZhou) Software Technology Co.,Ltd.
- *
- * @description: 滑动窗口限流
- * @author: lijian@cmss.chinamobile.com
- * @create: 2021/2/23 19:49
- * <p>
- * ------------------------------------------------------------------------
- **/
-
 public class SlideWindowRateLimiterTest {
 
   private  String  test1= new String();

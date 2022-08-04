@@ -8,20 +8,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-/**
- * ------------------------------------------------------------------------
- * <p>
- * Copyright © 2014-2018 China Mobile (SuZhou) Software Technology Co.,Ltd.
- * <p>
- * The programs can not be copied and/or distributed without the express permission of China Mobile
- * (SuZhou) Software Technology Co.,Ltd.
- *
- * @description:
- * @author: lijian@cmss.chinamobile.com
- * @create: 2021/4/1 13:53
- * <p>
- * ------------------------------------------------------------------------
- **/
 @Service
 public class TestServiceDeriveImpl extends TestServiceImpl implements TestService{
   @Autowired

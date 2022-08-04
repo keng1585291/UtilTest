@@ -9,20 +9,6 @@ import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
- * ------------------------------------------------------------------------
- * <p>
- * Copyright © 2014-2018 China Mobile (SuZhou) Software Technology Co.,Ltd.
- * <p>
- * The programs can not be copied and/or distributed without the express permission of China Mobile
- * (SuZhou) Software Technology Co.,Ltd.
- *
- * @description: 测试SnowJena
- * @author: lijian@cmss.chinamobile.com
- * @create: 2021/3/2 15:04
- * <p>
- * ------------------------------------------------------------------------
- **/
 
 public class AppTestModel {
   Logger logger = LoggerFactory.getLogger(getClass());

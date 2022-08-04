@@ -1,20 +1,5 @@
 package cn.joe.test.model;
 
-/**
- * ------------------------------------------------------------------------
- * <p>
- * Copyright © 2014-2018 China Mobile (SuZhou) Software Technology Co.,Ltd.
- * <p>
- * The programs can not be copied and/or distributed without the express permission of China Mobile
- * (SuZhou) Software Technology Co.,Ltd.
- *
- * @description: 测试get set方法
- * @author: lijian@cmss.chinamobile.com
- * @create: 2021/3/25 16:32
- * <p>
- * ------------------------------------------------------------------------
- **/
-
 public class TestGetSet {
   private Double a ;
 

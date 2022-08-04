@@ -15,20 +15,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * ------------------------------------------------------------------------
- * <p>
- * Copyright © 2014-2018 China Mobile (SuZhou) Software Technology Co.,Ltd.
- * <p>
- * The programs can not be copied and/or distributed without the express permission of China Mobile
- * (SuZhou) Software Technology Co.,Ltd.
- *
- * @description: 测试
- * @author: lijian@cmss.chinamobile.com
- * @create: 2021/2/20 16:17
- * <p>
- * ------------------------------------------------------------------------
- **/
 @RestController
 @RequestMapping("/v1/test")
 public class TestController {

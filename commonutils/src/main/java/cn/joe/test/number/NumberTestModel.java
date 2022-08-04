@@ -1,22 +1,6 @@
 package cn.joe.test.number;
 
-import javax.xml.bind.SchemaOutputResolver;
 import org.junit.Test;
-
-/**
- * ------------------------------------------------------------------------
- * <p>
- * Copyright © 2014-2018 China Mobile (SuZhou) Software Technology Co.,Ltd.
- * <p>
- * The programs can not be copied and/or distributed without the express permission of China Mobile
- * (SuZhou) Software Technology Co.,Ltd.
- *
- * @description: 基本数据类型测试
- * @author: lijian@cmss.chinamobile.com
- * @create: 2021/3/19 11:04
- * <p>
- * ------------------------------------------------------------------------
- **/
 
 public class NumberTestModel {
   @Test

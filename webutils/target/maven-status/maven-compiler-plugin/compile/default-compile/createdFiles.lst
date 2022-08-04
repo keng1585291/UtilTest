@@ -1,0 +1,16 @@
+cn\joe\test\model\User.class
+cn\joe\test\service\TestServiceDeriveImpl.class
+cn\joe\test\annotations\TestAnnotation.class
+cn\joe\test\dao\TestMapper.class
+cn\joe\test\service\TestServiceImpl.class
+cn\joe\test\annotations\TestAnnotationProcessor.class
+cn\joe\test\service\TestServiceImpl$1$1.class
+cn\joe\test\config\TestReadFromProperties.class
+cn\joe\test\controller\TestController.class
+cn\joe\test\service\TestServiceImpl$1.class
+cn\joe\test\model\Student.class
+cn\joe\test\annotations\TestAnnotationUse.class
+cn\joe\test\config\DatabaseConfig.class
+cn\joe\test\util\TestUtil.class
+cn\joe\test\WebTestApplication.class
+cn\joe\test\service\TestService.class

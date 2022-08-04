@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>org.example</groupId>
+  <artifactId>projects4utils</artifactId>
+  <packaging>pom</packaging>
+  <version>1.0-SNAPSHOT</version>
+
+  <properties>
+    <spring.version>1.0</spring.version>
+    <spring-boot.version>2.2.6.RELEASE</spring-boot.version>
+    <alibaba-sentinel.version>2.2.1.RELEASE</alibaba-sentinel.version>
+    <mybaits.version>2.1.2</mybaits.version>
+    <mysql.version>5.1.21</mysql.version>
+    <druid.version>1.1.10</druid.version>
+  </properties>
+
+  <modules>
+    <module>webutils</module>
+    <module>commonutils</module>
+  </modules>
+
+  <parent>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-parent</artifactId>
+    <version>2.2.6.RELEASE</version>
+  </parent>
+
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.12</version>
+    </dependency>
+    <dependency>
+      <groupId>com.alibaba.cloud</groupId>
+      <artifactId>spring-cloud-starter-alibaba-sentinel</artifactId>
+      <version>${alibaba-sentinel.version}</version>
+    </dependency>
+  </dependencies>
+</project>

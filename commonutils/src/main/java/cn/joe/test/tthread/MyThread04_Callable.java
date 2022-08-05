@@ -4,21 +4,6 @@ import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.FutureTask;
 
-/**
- * -----------------------------------------------------------------------------
- * <p>
- * Copyright  2014-2021 China Mobile (SuZhou) Software Technology Co.,Ltd.
- * <p>
- * The programs can not be copied and/or distributed without the express permission of China Mobile
- * (SuZhou) Software Technology Co.,Ltd.
- *
- * @description: Callable方式创建线程
- * @author: lijian@cmss.chinamobile.com
- * @create: 2022/8/3 18:07
- * <p>
- * ------------------------------------------------------------------------
- **/
-
 public class MyThread04_Callable implements Callable {
 
   @Override
